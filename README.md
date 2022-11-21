@@ -5,7 +5,7 @@
 </h4>
 
 ### Pré-requisitos
-
+### jamilly esteve aqui!
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Jupyter Notebook](https://www.anaconda.com/products/distribution), [Anaconda](https://www.anaconda.com/products/distribution), ou
 acessar via o [Google Colab](https://colab.research.google.com/)
